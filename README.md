@@ -1,4 +1,4 @@
-##Rubrica in Python
+Rubrica in Python
 
 Requisiti del Progetto:
 
